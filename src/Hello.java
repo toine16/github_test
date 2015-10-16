@@ -10,6 +10,10 @@ public class Hello
 		if(n%3 == 0)
 		{
 			System.out.printf("\n cool t'es multiple de 3");
+			System.out.printf("\n cool t'es multiple de 3");
+
+			System.out.printf("\n cool t'es multiple de 3");
+
 		}
 	}
 	
@@ -27,6 +31,8 @@ public class Hello
 		
 	}
 	
-
+/***
+ * nbblz^fl^zekf^zefk
+ */
 
 }
