@@ -5,7 +5,7 @@ public class Hello
 {
 	
 	
-	public static void bizz(int n)
+	public static void bizzbuzz(int n, int m)
 	{
 		if(n%3 == 0)
 		{
@@ -13,13 +13,15 @@ public class Hello
 		}
 	}
 	
+
+	
 	public static void main (String[]args)
 	{
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Tapez un nombre : ");
 		String str = sc.nextLine();
-		bizz(Integer.parseInt(str));
+		bizzbuzz(Integer.parseInt(str),5);
 		
 		sc.close();
 		
