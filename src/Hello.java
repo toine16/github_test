@@ -5,6 +5,11 @@ public class Hello
 {
 	
 	
+	/**
+	 *  HI I am te best
+	 * @param n
+	 * @param m
+	 */
 	public static void bizzbuzz(int n, int m)
 	{
 		if(n%3 == 0)
@@ -30,8 +35,7 @@ public class Hello
 		sc.close();
 		
 	}
-	
-/***
+	/***
  * nbblz^fl^zekf^zefk
  */
 
